@@ -33,6 +33,7 @@ function Intro() {
                 <img src={Vector1} alt="" />
                 <img src={Vector2} alt="" />
                 <img src={boy} alt="" />
+                <p>Hello world</p>
         </div>
     </div>
   )
